@@ -803,3 +803,7 @@ rm: //Users/mmaclay/jwst_im/img1.jpg: No such file or directory
                                  Dload  Upload   Total   Spent    Left  Speed
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 37  291k   37  110k    0     0   481k      0 --:--:-- --:--:-- --:--:--  484k100  291k  100  291k    0     0   542k      0 --:--:-- --:--:-- --:--:--  544k
 33:48: execution error: Finder got an error: AppleEvent handler failed. (-10000)
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 95  291k   95  278k    0     0   455k      0 --:--:-- --:--:-- --:--:--  456k100  291k  100  291k    0     0   454k      0 --:--:-- --:--:-- --:--:--  455k
+33:48: execution error: Finder got an error: AppleEvent handler failed. (-10000)
