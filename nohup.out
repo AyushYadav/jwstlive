@@ -795,3 +795,11 @@ rm: //Users/mmaclay/jwst_im/img.jpg: No such file or directory
   0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  3  291k    3 11350    0     0   4281      0  0:01:09  0:00:02  0:01:07 10470 14  291k   14 44654    0     0  13876      0  0:00:21  0:00:03  0:00:18 27030 38  291k   38  111k    0     0  27423      0  0:00:10  0:00:04  0:00:06 43957 77  291k   77  225k    0     0  43816      0  0:00:06  0:00:05  0:00:01 62333100  291k  100  291k    0     0  48594      0  0:00:06  0:00:06 --:--:-- 65233
 33:48: execution error: Finder got an error: AppleEvent handler failed. (-10000)
 rm: //Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  291k  100  291k    0     0   467k      0 --:--:-- --:--:-- --:--:--  469k
+33:48: execution error: Finder got an error: AppleEvent handler failed. (-10000)
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 37  291k   37  110k    0     0   481k      0 --:--:-- --:--:-- --:--:--  484k100  291k  100  291k    0     0   542k      0 --:--:-- --:--:-- --:--:--  544k
+33:48: execution error: Finder got an error: AppleEvent handler failed. (-10000)
