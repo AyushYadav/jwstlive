@@ -1,0 +1,797 @@
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  115k  100  115k    0     0  2536k      0 --:--:-- --:--:-- --:--:-- 2676k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  115k  100  115k    0     0  3868k      0 --:--:-- --:--:-- --:--:-- 4263k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 29  115k   29 34518    0     0   130k      0 --:--:-- --:--:-- --:--:--  131k100  115k  100  115k    0     0   351k      0 --:--:-- --:--:-- --:--:--  353k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  115k  100  115k    0     0   273k      0 --:--:-- --:--:-- --:--:-- 3032k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  115k  100  115k    0     0  2677k      0 --:--:-- --:--:-- --:--:-- 2812k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  115k  100  115k    0     0  3179k      0 --:--:-- --:--:-- --:--:-- 3391k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  115k  100  115k    0     0  3231k      0 --:--:-- --:--:-- --:--:-- 3490k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  116k  100  116k    0     0  3643k      0 --:--:-- --:--:-- --:--:-- 4000k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  116k  100  116k    0     0   910k      0 --:--:-- --:--:-- --:--:--  929k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  115k  100  115k    0     0   338k      0 --:--:-- --:--:-- --:--:--  341k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  115k  100  115k    0     0  2973k      0 --:--:-- --:--:-- --:--:-- 3215k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  116k  100  116k    0     0  3021k      0 --:--:-- --:--:-- --:--:-- 3225k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  115k  100  115k    0     0  2444k      0 --:--:-- --:--:-- --:--:-- 2634k
+curl: (18) transfer closed with 58 bytes remaining to read
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  115k  100  115k    0     0   529k      0 --:--:-- --:--:-- --:--:--  535k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  115k  100  115k    0     0  3024k      0 --:--:-- --:--:-- --:--:-- 3219k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  115k  100  115k    0     0  2312k      0 --:--:-- --:--:-- --:--:-- 2460k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  1  115k    1  1214    0     0   1821      0  0:01:04 --:--:--  0:01:04  1825100  115k  100  115k    0     0   167k      0 --:--:-- --:--:-- --:--:--  168k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  115k  100  115k    0     0  3107k      0 --:--:-- --:--:-- --:--:-- 3309k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  115k  100  115k    0     0  1705k      0 --:--:-- --:--:-- --:--:-- 3723k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  115k  100  115k    0     0  3332k      0 --:--:-- --:--:-- --:--:-- 3612k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 47  115k   47 56238    0     0  1957k      0 --:--:-- --:--:-- --:--:-- 2034k100  115k  100  115k    0     0  2984k      0 --:--:-- --:--:-- --:--:-- 3125k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  115k  100  115k    0     0  3373k      0 --:--:-- --:--:-- --:--:-- 3605k
+33:48: execution error: Finder got an error: AppleEvent timed out. (-1712)
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  115k  100  115k    0     0  3503k      0 --:--:-- --:--:-- --:--:-- 3725k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  116k  100  116k    0     0  3375k      0 --:--:-- --:--:-- --:--:-- 3628k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  115k  100  115k    0     0  2771k      0 --:--:-- --:--:-- --:--:-- 2960k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  115k  100  115k    0     0  3451k      0 --:--:-- --:--:-- --:--:-- 3725k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  115k  100  115k    0     0  2737k      0 --:--:-- --:--:-- --:--:-- 2887k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  115k  100  115k    0     0  2807k      0 --:--:-- --:--:-- --:--:-- 2960k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  115k  100  115k    0     0  2871k      0 --:--:-- --:--:-- --:--:-- 3039k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  115k  100  115k    0     0  3361k      0 --:--:-- --:--:-- --:--:-- 3616k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  115k  100  115k    0     0  3511k      0 --:--:-- --:--:-- --:--:-- 3854k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  115k  100  115k    0     0  3491k      0 --:--:-- --:--:-- --:--:-- 3729k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  115k  100  115k    0     0  3063k      0 --:--:-- --:--:-- --:--:-- 3301k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  115k  100  115k    0     0  3191k      0 --:--:-- --:--:-- --:--:-- 3402k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  115k  100  115k    0     0  3443k      0 --:--:-- --:--:-- --:--:-- 3732k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  116k  100  116k    0     0  3061k      0 --:--:-- --:--:-- --:--:-- 3320k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  116k  100  116k    0     0  3047k      0 --:--:-- --:--:-- --:--:-- 3240k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  116k  100  116k    0     0  3810k      0 --:--:-- --:--:-- --:--:-- 4174k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  116k  100  116k    0     0  3732k      0 --:--:-- --:--:-- --:--:-- 4032k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  116k  100  116k    0     0  2992k      0 --:--:-- --:--:-- --:--:-- 3433k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 99  116k   99  116k    0     0  1929k      0 --:--:-- --:--:-- --:--:-- 2013k
+curl: (18) transfer closed with 96 bytes remaining to read
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  1  116k    1  1214    0     0   1564      0  0:01:16 --:--:--  0:01:16  1566100  116k  100  116k    0     0   145k      0 --:--:-- --:--:-- --:--:--  145k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  116k  100  116k    0     0  2915k      0 --:--:-- --:--:-- --:--:-- 3074k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  116k  100  116k    0     0  2971k      0 --:--:-- --:--:-- --:--:-- 3159k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  116k  100  116k    0     0  2468k      0 --:--:-- --:--:-- --:--:-- 2599k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  116k  100  116k    0     0  3138k      0 --:--:-- --:--:-- --:--:-- 3339k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  3298k      0 --:--:-- --:--:-- --:--:-- 3547k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  3576k      0 --:--:-- --:--:-- --:--:-- 3905k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  3386k      0 --:--:-- --:--:-- --:--:-- 3663k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  116k  100  116k    0     0  3528k      0 --:--:-- --:--:-- --:--:-- 3768k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  116k  100  116k    0     0   644k      0 --:--:-- --:--:-- --:--:--  655k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  3678k      0 --:--:-- --:--:-- --:--:-- 4037k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  116k  100  116k    0     0  3406k      0 --:--:-- --:--:-- --:--:-- 3655k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0   747k      0 --:--:-- --:--:-- --:--:--  760k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  2047k      0 --:--:-- --:--:-- --:--:-- 2170k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  2713k      0 --:--:-- --:--:-- --:--:-- 2866k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  116k  100  116k    0     0  2022k      0 --:--:-- --:--:-- --:--:-- 2126k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  3379k      0 --:--:-- --:--:-- --:--:-- 3786k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  3214k      0 --:--:-- --:--:-- --:--:-- 3452k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  3243k      0 --:--:-- --:--:-- --:--:-- 3556k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  2634k      0 --:--:-- --:--:-- --:--:-- 2795k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  1917k      0 --:--:-- --:--:-- --:--:-- 2020k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  3285k      0 --:--:-- --:--:-- --:--:-- 3547k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  2684k      0 --:--:-- --:--:-- --:--:-- 2866k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  3457k      0 --:--:-- --:--:-- --:--:-- 3792k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  3030k      0 --:--:-- --:--:-- --:--:-- 3256k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  1354k      0 --:--:-- --:--:-- --:--:-- 1413k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 99  117k   99  117k    0     0  3096k      0 --:--:-- --:--:-- --:--:-- 3359k
+curl: (18) transfer closed with 81 bytes remaining to read
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  2995k      0 --:--:-- --:--:-- --:--:-- 3262k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  3516k      0 --:--:-- --:--:-- --:--:-- 3796k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  3719k      0 --:--:-- --:--:-- --:--:-- 4056k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  2464k      0 --:--:-- --:--:-- --:--:-- 2606k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+/usr/local/bin/jwst: line 6: 23098 Terminated: 15          sleep 62s
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0   331k      0 --:--:-- --:--:-- --:--:--  344k
+33:48: execution error: Finder got an error: AppleEvent handler failed. (-10000)
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+/usr/local/bin/jwst: line 6: 23164 Terminated: 15          sleep 62s
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 86  117k   86  101k    0     0  88949      0  0:00:01  0:00:01 --:--:-- 89519100  117k  100  117k    0     0  90312      0  0:00:01  0:00:01 --:--:-- 90862
+33:48: execution error: Finder got an error: AppleEvent handler failed. (-10000)
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  1269k      0 --:--:-- --:--:-- --:--:-- 1399k100  117k  100  117k    0     0  1266k      0 --:--:-- --:--:-- --:--:-- 1399k
+33:48: execution error: Finder got an error: AppleEvent handler failed. (-10000)
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  1249k      0 --:--:-- --:--:-- --:--:-- 1319k
+33:48: execution error: Finder got an error: AppleEvent handler failed. (-10000)
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  1193k      0 --:--:-- --:--:-- --:--:-- 1403k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  1  113k    1  1214    0     0   2078      0  0:00:55 --:--:--  0:00:55  2085100  113k  100  113k    0     0   176k      0 --:--:-- --:--:-- --:--:--  177k
+33:48: execution error: Finder got an error: AppleEvent handler failed. (-10000)
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  1818k      0 --:--:-- --:--:-- --:--:-- 1898k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  118k  100  118k    0     0  1870k      0 --:--:-- --:--:-- --:--:-- 2007k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+/usr/local/bin/jwst: line 4: export: `=': not a valid identifier
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  296k  100  296k    0     0   552k      0 --:--:-- --:--:-- --:--:-- 2851k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  118k  100  118k    0     0   318k      0 --:--:-- --:--:-- --:--:--  320k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  296k  100  296k    0     0  2309k      0 --:--:-- --:--:-- --:--:-- 2353k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  118k  100  118k    0     0  1339k      0 --:--:-- --:--:-- --:--:-- 1379k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 40  297k   40  121k    0     0  2225k      0 --:--:-- --:--:-- --:--:-- 2290k100  297k  100  297k    0     0  2726k      0 --:--:-- --:--:-- --:--:-- 2754k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  118k  100  118k    0     0   412k      0 --:--:-- --:--:-- --:--:--  415k
+33:48: execution error: Finder got an error: AppleEvent handler failed. (-10000)
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  296k  100  296k    0     0   974k      0 --:--:-- --:--:-- --:--:--  982k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  118k  100  118k    0     0   473k      0 --:--:-- --:--:-- --:--:--  476k
+33:48: execution error: Finder got an error: AppleEvent handler failed. (-10000)
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  297k  100  297k    0     0  2927k      0 --:--:-- --:--:-- --:--:-- 3001k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  118k  100  118k    0     0  1855k      0 --:--:-- --:--:-- --:--:-- 1975k
+33:48: execution error: Finder got an error: AppleEvent handler failed. (-10000)
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  296k  100  296k    0     0   660k      0 --:--:-- --:--:-- --:--:-- 2742k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  118k  100  118k    0     0  1776k      0 --:--:-- --:--:-- --:--:-- 1877k
+33:48: execution error: Finder got an error: AppleEvent handler failed. (-10000)
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  296k  100  296k    0     0   652k      0 --:--:-- --:--:-- --:--:--  658k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  118k  100  118k    0     0  2314k      0 --:--:-- --:--:-- --:--:-- 2470k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  297k  100  297k    0     0  3917k      0 --:--:-- --:--:-- --:--:-- 4073k
+33:48: execution error: Finder got an error: AppleEvent handler failed. (-10000)
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  118k  100  118k    0     0  2822k      0 --:--:-- --:--:-- --:--:-- 3039k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 10  299k   10 33070    0     0  1567k      0 --:--:-- --:--:-- --:--:-- 1699k100  299k  100  299k    0     0  4608k      0 --:--:-- --:--:-- --:--:-- 4760k
+33:48: execution error: Finder got an error: AppleEvent handler failed. (-10000)
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  119k  100  119k    0     0  3339k      0 --:--:-- --:--:-- --:--:-- 3515k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  298k  100  298k    0     0  3680k      0 --:--:-- --:--:-- --:--:-- 3831k
+33:48: execution error: Finder got an error: AppleEvent handler failed. (-10000)
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  119k  100  119k    0     0  2778k      0 --:--:-- --:--:-- --:--:-- 2914k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 32  298k   32 98920    0     0   128k      0  0:00:02 --:--:--  0:00:02  235k 61  298k   61  182k    0     0  92150      0  0:00:03  0:00:02  0:00:01  108k  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  298k  100  298k    0     0   118k      0  0:00:02  0:00:02 --:--:--  136k
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  4  119k    4  5558    0     0   3026      0  0:00:40  0:00:01  0:00:39  3030 46  119k   46 56238    0     0  20758      0  0:00:05  0:00:02  0:00:03 20775100  119k  100  119k    0     0  42273      0  0:00:02  0:00:02 --:--:-- 42306
+33:48: execution error: Finder got an error: AppleEvent handler failed. (-10000)
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  298k  100  298k    0     0  5180k      0 --:--:-- --:--:-- --:--:-- 5427k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  119k  100  119k    0     0  3485k      0 --:--:-- --:--:-- --:--:-- 3845k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  298k  100  298k    0     0  4764k      0 --:--:-- --:--:-- --:--:-- 4976k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  119k  100  119k    0     0   556k      0 --:--:-- --:--:-- --:--:--  562k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  299k  100  299k    0     0  5196k      0 --:--:-- --:--:-- --:--:-- 5436k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  119k  100  119k    0     0  2851k      0 --:--:-- --:--:-- --:--:-- 3224k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  299k  100  299k    0     0  5256k      0 --:--:-- --:--:-- --:--:-- 5447k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  119k  100  119k    0     0  3765k      0 --:--:-- --:--:-- --:--:-- 4122k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  298k  100  298k    0     0  3218k      0 --:--:-- --:--:-- --:--:-- 3312k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  119k  100  119k    0     0  1891k      0 --:--:-- --:--:-- --:--:-- 1952k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  298k  100  298k    0     0  5156k      0 --:--:-- --:--:-- --:--:-- 5420k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  119k  100  119k    0     0  3772k      0 --:--:-- --:--:-- --:--:-- 4106k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  297k  100  297k    0     0  4478k      0 --:--:-- --:--:-- --:--:-- 4654k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  118k  100  118k    0     0  3857k      0 --:--:-- --:--:-- --:--:-- 4249k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 44  298k   44  132k    0     0  3618k      0 --:--:-- --:--:-- --:--:-- 3791k100  298k  100  298k    0     0  4989k      0 --:--:-- --:--:-- --:--:-- 5145k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  118k  100  118k    0     0  2841k      0 --:--:-- --:--:-- --:--:-- 3047k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  298k  100  298k    0     0  5316k      0 --:--:-- --:--:-- --:--:-- 5531k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  119k  100  119k    0     0  3656k      0 --:--:-- --:--:-- --:--:-- 3968k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  299k  100  299k    0     0  3797k      0 --:--:-- --:--:-- --:--:-- 3939k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  119k  100  119k    0     0  2415k      0 --:--:-- --:--:-- --:--:-- 2841k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  298k  100  298k    0     0  4965k      0 --:--:-- --:--:-- --:--:-- 5154k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  119k  100  119k    0     0  3420k      0 --:--:-- --:--:-- --:--:-- 3727k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  300k  100  300k    0     0  3991k      0 --:--:-- --:--:-- --:--:-- 4117k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  119k  100  119k    0     0  3625k      0 --:--:-- --:--:-- --:--:-- 3993k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  298k  100  298k    0     0  5301k      0 --:--:-- --:--:-- --:--:-- 5529k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  119k  100  119k    0     0  3789k      0 --:--:-- --:--:-- --:--:-- 4108k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  295k  100  295k    0     0  5115k      0 --:--:-- --:--:-- --:--:-- 5374k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  2353k      0 --:--:-- --:--:-- --:--:-- 2454k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  295k  100  295k    0     0  5092k      0 --:--:-- --:--:-- --:--:-- 5370k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  3342k      0 --:--:-- --:--:-- --:--:-- 3563k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  296k  100  296k    0     0  4419k      0 --:--:-- --:--:-- --:--:-- 4559k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  297k  100  297k    0     0  4523k      0 --:--:-- --:--:-- --:--:-- 4716k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  118k  100  118k    0     0  3810k      0 --:--:-- --:--:-- --:--:-- 4078k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  296k  100  296k    0     0  4194k      0 --:--:-- --:--:-- --:--:-- 4357k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  3003k      0 --:--:-- --:--:-- --:--:-- 3188k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  295k  100  295k    0     0  5442k      0 --:--:-- --:--:-- --:--:-- 5686k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  3612k      0 --:--:-- --:--:-- --:--:-- 3926k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  295k  100  295k    0     0  4646k      0 --:--:-- --:--:-- --:--:-- 4848k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  3663k      0 --:--:-- --:--:-- --:--:-- 3927k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  295k  100  295k    0     0  4916k      0 --:--:-- --:--:-- --:--:-- 5178k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  1152k      0 --:--:-- --:--:-- --:--:-- 1186k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  295k  100  295k    0     0  2480k      0 --:--:-- --:--:-- --:--:-- 2543k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  3709k      0 --:--:-- --:--:-- --:--:-- 4059k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  295k  100  295k    0     0  4710k      0 --:--:-- --:--:-- --:--:-- 4925k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  3541k      0 --:--:-- --:--:-- --:--:-- 3798k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  295k  100  295k    0     0  4895k      0 --:--:-- --:--:-- --:--:-- 5094k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  3826k      0 --:--:-- --:--:-- --:--:-- 4208k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  296k  100  296k    0     0  5034k      0 --:--:-- --:--:-- --:--:-- 5300k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  118k  100  118k    0     0  2645k      0 --:--:-- --:--:-- --:--:-- 2817k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  295k  100  295k    0     0  4815k      0 --:--:-- --:--:-- --:--:-- 5001k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  3466k      0 --:--:-- --:--:-- --:--:-- 3792k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  296k  100  296k    0     0  4127k      0 --:--:-- --:--:-- --:--:-- 4297k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  118k  100  118k    0     0  3633k      0 --:--:-- --:--:-- --:--:-- 3936k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  298k  100  298k    0     0  5524k      0 --:--:-- --:--:-- --:--:-- 5736k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  118k  100  118k    0     0   261k      0 --:--:-- --:--:-- --:--:--  262k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  296k  100  296k    0     0  3850k      0 --:--:-- --:--:-- --:--:-- 4011k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  118k  100  118k    0     0  2145k      0 --:--:-- --:--:-- --:--:-- 2320k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  296k  100  296k    0     0  1302k      0 --:--:-- --:--:-- --:--:-- 1317k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  118k  100  118k    0     0   938k      0 --:--:-- --:--:-- --:--:--  960k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  296k  100  296k    0     0  4249k      0 --:--:-- --:--:-- --:--:-- 4422k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  2  118k    2  2662    0     0   176k      0 --:--:-- --:--:-- --:--:--  199k100  118k  100  118k    0     0  3257k      0 --:--:-- --:--:-- --:--:-- 3376k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0  295k    0  2662    0     0   6432      0  0:00:47 --:--:--  0:00:47  6461100  295k  100  295k    0     0   655k      0 --:--:-- --:--:-- --:--:--  658k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  118k  100  118k    0     0  2678k      0 --:--:-- --:--:-- --:--:-- 2880k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  295k  100  295k    0     0  1280k      0 --:--:-- --:--:-- --:--:-- 1295k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0   344k      0 --:--:-- --:--:-- --:--:--  346k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  1  295k    1  4146    0     0   3940      0  0:01:16  0:00:01  0:01:15  3952100  295k  100  295k    0     0   253k      0  0:00:01  0:00:01 --:--:--  253k
+33:48: execution error: Finder got an error: AppleEvent handler failed. (-10000)
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  3231k      0 --:--:-- --:--:-- --:--:-- 3466k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 39  294k   39  117k    0     0  2879k      0 --:--:-- --:--:-- --:--:-- 3003k100  294k  100  294k    0     0  4387k      0 --:--:-- --:--:-- --:--:-- 4531k
+33:48: execution error: Finder got an error: AppleEvent handler failed. (-10000)
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  3039k      0 --:--:-- --:--:-- --:--:-- 3266k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  295k  100  295k    0     0  4168k      0 --:--:-- --:--:-- --:--:-- 4405k
+33:48: execution error: Finder got an error: AppleEvent handler failed. (-10000)
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  3106k      0 --:--:-- --:--:-- --:--:-- 3360k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  294k  100  294k    0     0  4543k      0 --:--:-- --:--:-- --:--:-- 4835k
+33:48: execution error: Finder got an error: AppleEvent handler failed. (-10000)
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  3694k      0 --:--:-- --:--:-- --:--:-- 4057k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  294k  100  294k    0     0  4499k      0 --:--:-- --:--:-- --:--:-- 4682k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  2341k      0 --:--:-- --:--:-- --:--:-- 2450k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  295k  100  295k    0     0  3280k      0 --:--:-- --:--:-- --:--:-- 3517k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  118k  100  118k    0     0  3181k      0 --:--:-- --:--:-- --:--:-- 3807k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  296k  100  296k    0     0  4436k      0 --:--:-- --:--:-- --:--:-- 4778k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  118k  100  118k    0     0  3899k      0 --:--:-- --:--:-- --:--:-- 4224k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  296k  100  296k    0     0  4762k      0 --:--:-- --:--:-- --:--:-- 5026k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  118k  100  118k    0     0  3611k      0 --:--:-- --:--:-- --:--:-- 4225k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  118k  100  118k    0     0  3786k      0 --:--:-- --:--:-- --:--:-- 4072k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  0  296k    0  1214    0     0   1573      0  0:03:12 --:--:--  0:03:12  1578100  296k  100  296k    0     0   358k      0 --:--:-- --:--:-- --:--:--  359k
+33:48: execution error: Finder got an error: AppleEvent handler failed. (-10000)
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  118k  100  118k    0     0  3541k      0 --:--:-- --:--:-- --:--:-- 3942k
+curl: (18) transfer closed with 42 bytes remaining to read
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  296k  100  296k    0     0  3969k      0 --:--:-- --:--:-- --:--:-- 4120k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 86  118k   86  102k    0     0  3459k      0 --:--:-- --:--:-- --:--:-- 3940k100  118k  100  118k    0     0  3577k      0 --:--:-- --:--:-- --:--:-- 4072k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  296k  100  296k    0     0  4140k      0 --:--:-- --:--:-- --:--:-- 4429k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  1281k      0 --:--:-- --:--:-- --:--:-- 1325k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  296k  100  296k    0     0  3682k      0 --:--:-- --:--:-- --:--:-- 3845k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  3444k      0 --:--:-- --:--:-- --:--:-- 3683k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  296k  100  296k    0     0  4143k      0 --:--:-- --:--:-- --:--:-- 4354k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0   999k      0 --:--:-- --:--:-- --:--:-- 1028k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  294k  100  294k    0     0  4461k      0 --:--:-- --:--:-- --:--:-- 4674k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  117k  100  117k    0     0  3498k      0 --:--:-- --:--:-- --:--:-- 3786k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  295k  100  295k    0     0  4834k      0 --:--:-- --:--:-- --:--:-- 5089k
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+/usr/local/bin/jwst: line 4: export: `=': not a valid identifier
+/usr/local/bin/jwst: line 5: ./terminate.sh: Permission denied
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  298k  100  298k    0     0  3960k      0 --:--:-- --:--:-- --:--:-- 4090k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+rm: /Users/mmaclay/jwst_im/img.jpg: No such file or directory
+/usr/local/bin/jwst: line 4: export: `=': not a valid identifier
+/usr/local/bin/jwst: line 5: ./terminate.sh: Permission denied
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  299k  100  299k    0     0  5846k      0 --:--:-- --:--:-- --:--:-- 6103k
+rm: /Users/mmaclay/jwst_im/img1.jpg: No such file or directory
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  298k  100  298k    0     0  5691k      0 --:--:-- --:--:-- --:--:-- 5978k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  298k  100  298k    0     0   656k      0 --:--:-- --:--:-- --:--:-- 5744k
+rm: //Users/mmaclay/jwst_im/img.jpg: No such file or directory
+/usr/local/bin/jwst: line 4: export: `=': not a valid identifier
+/usr/local/bin/jwst: line 5: .//Users/mmaclay/jwst_im/terminate.sh: No such file or directory
+33:48: execution error: Finder got an error: AppleEvent handler failed. (-10000)
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  3  291k    3 11350    0     0   4281      0  0:01:09  0:00:02  0:01:07 10470 14  291k   14 44654    0     0  13876      0  0:00:21  0:00:03  0:00:18 27030 38  291k   38  111k    0     0  27423      0  0:00:10  0:00:04  0:00:06 43957 77  291k   77  225k    0     0  43816      0  0:00:06  0:00:05  0:00:01 62333100  291k  100  291k    0     0  48594      0  0:00:06  0:00:06 --:--:-- 65233
+33:48: execution error: Finder got an error: AppleEvent handler failed. (-10000)
+rm: //Users/mmaclay/jwst_im/img1.jpg: No such file or directory
